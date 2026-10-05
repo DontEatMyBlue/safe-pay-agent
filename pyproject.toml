@@ -1,0 +1,12 @@
+[project]
+name = "safe-pay-agent"
+version = "0.1.0"
+description = "송금 전에 한도와 사람 승인을 거치는 온체인 결제 에이전트 (Base Sepolia)"
+requires-python = ">=3.10"
+dependencies = [
+    "web3==8.0.0",
+    "python-dotenv==1.2.4",
+]
+
+[tool.setuptools]
+packages = ["safe_pay"]
