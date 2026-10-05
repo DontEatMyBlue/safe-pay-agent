@@ -12,3 +12,7 @@ __pycache__/
 # 에디터
 .vscode/
 .idea/
+
+# 개인 설정, 개인 메모
+.claude/settings.local.json
+이더리움 토이프로젝트 안전한 결제 에이전트.md
