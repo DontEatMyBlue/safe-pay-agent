@@ -15,4 +15,5 @@ __pycache__/
 
 # 개인 설정, 개인 메모
 .claude/settings.local.json
+docs/WORKFLOW.md
 이더리움 토이프로젝트 안전한 결제 에이전트.md
